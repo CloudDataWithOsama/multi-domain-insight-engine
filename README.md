@@ -6,8 +6,6 @@ The project transforms raw, unstructured data into actionable business intellige
 
 ![alt text](<Architecture.png>)
 
----
-
 ## 📂 Project Overview
 
 This repository is divided into three core analysis modules:
@@ -33,11 +31,9 @@ This repository is divided into three core analysis modules:
     - Analyzing the hypothesis: *"Are movie durations getting shorter over time?"*
 * **Insight:** Mapping Netflix’s content evolution from 1990 to 2021.
 
----
-
 ## 🛠️ Tech Stack & Tools
 
-- **Language:** Python 3.x
+- **Language:** Python 3.13.9
 - **Libraries:** - `Pandas` & `NumPy` (Data Manipulation)
     - `Matplotlib` & `Seaborn` (Static Visualization)
     - `Plotly` (Interactive Dashboarding)
